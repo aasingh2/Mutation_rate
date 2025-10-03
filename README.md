@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 # Estimating the Micro-Indel Mutation Rate in *Plasmodium falciparum*
 
 This repository contains information from my S3 Master's thesis project at the University of Montpellier, titled:\
 **"Estimating the micro-indel mutation rate in *Plasmodium falciparum* using genomes from mutation accumulation experiments."**
 
-The project was carried out at **LPHI (Laboratory of Host-Pathogen Interactions)** under the supervision of **Dr. Antoine Classens (PI)** and **Marc Antoine Guery**, from **September 2020 to February 2021**.
+The project was carried out at LPHI (Laboratory of Host-Pathogen Interactions) under the supervision of Dr. Antoine Classens (PI) and Marc Antoine Guery, from September 2020 to February 2021.
 
 ------------------------------------------------------------------------
 
@@ -63,9 +63,9 @@ This presentation was used to update my supervisors during project meetings. It 
 
 The project continued after the internship ended, and a manuscript draft is currently in preparation. Because of this, not all results and data generated during the project can be shared in this repository. The raw files used in the analysis can be found in the following study:
 
-William L. Hamilton, Antoine Claessens, Thomas Otto, Mihir Kekre, Rick M. Fairhurst, *et al.*
-**Extreme mutation bias and high AT content in *Plasmodium falciparum***.
-*Nucleic Acids Research*, 2016, gkw1259.
+William L. Hamilton, Antoine Claessens, Thomas Otto, Mihir Kekre, Rick M. Fairhurst, et al.
+Extreme mutation bias and high AT content in Plasmodium falciparum.
+Nucleic Acids Research, 2016, gkw1259.
 <https://doi.org/10.1093/nar/gkw1259>
 [HAL entry](https://hal.science/hal-01989279)
 =======
