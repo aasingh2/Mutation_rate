@@ -10,49 +10,50 @@ The project was carried out at LPHI (Laboratory of Host-Pathogen Interactions) u
 ## Table of Contents
 
 -   [Repository Structure](#repository-structure)
-
-    -   [1. Pipeline](#1-pipeline)
-    -   [2. Test Scripts](#2-test-scripts)
-    -   [3. Internship Results](#3-internship-results)
-
+    -   [Pipeline](#pipeline)
+    -   [Test Scripts](#test-scripts)
+    -   [Internship Results](#internship-results)
 -   [Additional Resources](#additional-resources)
-
 -   [Important Note](#important-note)
+
+------------------------------------------------------------------------
 
 ## Repository Structure {#repository-structure}
 
 This repository contains three main folders:
 
-### 1. Pipeline {#1-pipeline}
+### Pipeline {#pipeline}
 
--   Contains the main scripts used in the analysis pipeline.
+-   Contains the main scripts used in the analysis pipeline.\
 -   The schematic below illustrates the major steps in the pipeline:
 
 ![Pipeline schematic](pipeline_schematic.png)
 
-For more details about the pipeline and each step, see: `Internship_results/S3_report_Aakanksha_Singh.pdf`
+For more details about the pipeline and each step, see:\
+`Internship_results/S3_report_Aakanksha_Singh.pdf`
 
 ------------------------------------------------------------------------
 
-### 2. Test Scripts {#2-test-scripts}
+### Test Scripts {#test-scripts}
 
--   Includes test scripts and their documentation.
--   Provides insight into how I coded during the project.
+-   Includes test scripts and their documentation.\
+-   Provides insight into how I coded during the project.\
 -   Explore this folder to see the scripts and the corresponding documentation.
 
 ------------------------------------------------------------------------
 
-### 3. Internship Results {#3-internship-results}
+### Internship Results {#internship-results}
 
--   Contains the full Master's thesis report.
--   Includes the presentation used to summarize the project for quick reference.
+-   Contains the full Master's thesis report.\
+-   Includes the presentation used to summarize the project for quick reference.\
 -   Useful for reviewing both my writing and presentation skills.
 
 ------------------------------------------------------------------------
 
 ## Additional Resources {#additional-resources}
 
-For an overview of the scripts and tools used in the analysis, see: `summary_of_the_update_meetings.pptx`
+For an overview of the scripts and tools used in the analysis, see:\
+`summary_of_the_update_meetings.pptx`
 
 This presentation was used to update my supervisors during project meetings. It also served as a way for me to keep track of what I was testing and developing. Looking back, it's a valuable resource for understanding how the project was organized.
 
@@ -60,11 +61,12 @@ This presentation was used to update my supervisors during project meetings. It 
 
 ## Important Note {#important-note}
 
-The project continued after the internship ended, and a manuscript draft is currently in preparation. Because of this, not all results and data generated during the project can be shared in this repository. The raw files used in the analysis can be found in the following study:
+The project continued after the internship ended, and a manuscript draft is currently in preparation.\
+Because of this, not all results and data generated during the project can be shared in this repository.
 
-William L. Hamilton, Antoine Claessens, Thomas Otto, Mihir Kekre, Rick M. Fairhurst, et al.\
-Extreme mutation bias and high AT content in *Plasmodium falciparum*.\
+The raw files used in the analysis can be found in the following study:
+
+William L. Hamilton, Antoine Claessens, Thomas Otto, Mihir Kekre, Rick M. Fairhurst, *et al.*\
+**Extreme mutation bias and high AT content in *Plasmodium falciparum***\
 *Nucleic Acids Research*, 2016, gkw1259.\
 [DOI](https://doi.org/10.1093/nar/gkw1259) \| [HAL entry](https://hal.science/hal-01989279)
-
-=======
