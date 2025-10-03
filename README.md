@@ -1,4 +1,3 @@
-
 # Estimating the Micro-Indel Mutation Rate in *Plasmodium falciparum*
 
 This repository contains information from my S3 Master's thesis project at the University of Montpellier, titled:\
@@ -10,27 +9,28 @@ The project was carried out at LPHI (Laboratory of Host-Pathogen Interactions) u
 
 ## Table of Contents
 
-- [Repository Structure](#repository-structure)
-  - [1. Pipeline](#1-pipeline)
-  - [2. Test Scripts](#2-test-scripts)
-  - [3. Internship Results](#3-internship-results)
-- [Additional Resources](#additional-resources)
-- [Important Note](#important-note)
-------------------------------------------------------------------------
+-   [Repository Structure](#repository-structure)
+
+    -   [1. Pipeline](#1-pipeline)
+    -   [2. Test Scripts](#2-test-scripts)
+    -   [3. Internship Results](#3-internship-results)
+
+-   [Additional Resources](#additional-resources)
+
+-   [Important Note](#important-note)
 
 ## Repository Structure {#repository-structure}
 
 This repository contains three main folders:
 
-### 1. Pipelin
+### 1. Pipeline
 
 -   Contains the main scripts used in the analysis pipeline.
 -   The schematic below illustrates the major steps in the pipeline:
 
 ![Pipeline schematic](pipeline_schematic.png)
 
-For more details about the pipeline and each step, see:
-`Internship_results/S3_report_Aakanksha_Singh.pdf`
+For more details about the pipeline and each step, see: `Internship_results/S3_report_Aakanksha_Singh.pdf`
 
 ------------------------------------------------------------------------
 
@@ -50,24 +50,21 @@ For more details about the pipeline and each step, see:
 
 ------------------------------------------------------------------------
 
-## Additional Resources
+## Additional Resources {#additional-resources}
 
-For an overview of the scripts and tools used in the analysis, see:
-`summary_of_the_update_meetings.pptx`
+For an overview of the scripts and tools used in the analysis, see: `summary_of_the_update_meetings.pptx`
 
 This presentation was used to update my supervisors during project meetings. It also served as a way for me to keep track of what I was testing and developing. Looking back, it's a valuable resource for understanding how the project was organized.
 
 ------------------------------------------------------------------------
 
-## Important Note
+## Important Note {#important-note}
 
 The project continued after the internship ended, and a manuscript draft is currently in preparation. Because of this, not all results and data generated during the project can be shared in this repository. The raw files used in the analysis can be found in the following study:
 
-William L. Hamilton, Antoine Claessens, Thomas Otto, Mihir Kekre, Rick M. Fairhurst, et al.
-Extreme mutation bias and high AT content in Plasmodium falciparum.
-Nucleic Acids Research, 2016, gkw1259.
-<https://doi.org/10.1093/nar/gkw1259>
-[HAL entry](https://hal.science/hal-01989279)
+William L. Hamilton, Antoine Claessens, Thomas Otto, Mihir Kekre, Rick M. Fairhurst, et al.\
+Extreme mutation bias and high AT content in *Plasmodium falciparum*.\
+*Nucleic Acids Research*, 2016, gkw1259.\
+[DOI](https://doi.org/10.1093/nar/gkw1259) \| [HAL entry](https://hal.science/hal-01989279)
+
 =======
-# Mutation_rate
->>>>>>> 1c90846f72878988a99c9963691066aaf68f7a1d
