@@ -24,13 +24,12 @@ This repository contains three main folders:
 
 ### Pipeline {#pipeline}
 
--   Contains the main scripts used in the analysis pipeline.\
+-   Contains the main scripts used in the analysis pipeline.
 -   The schematic below illustrates the major steps in the pipeline:
 
 ![Pipeline schematic](pipeline_schematic.png)
 
-For more details about the pipeline and each step, see:\
-`Internship_results/S3_report_Aakanksha_Singh.pdf`
+For more details about the pipeline and each step, see: `Internship_results/S3_report_Aakanksha_Singh.pdf`
 
 ------------------------------------------------------------------------
 
@@ -52,8 +51,7 @@ For more details about the pipeline and each step, see:\
 
 ## Additional Resources {#additional-resources}
 
-For an overview of the scripts and tools used in the analysis, see:\
-`summary_of_the_update_meetings.pptx`
+For an overview of the scripts and tools used in the analysis, see: `summary_of_the_update_meetings.pptx`
 
 This presentation was used to update my supervisors during project meetings. It also served as a way for me to keep track of what I was testing and developing. Looking back, it's a valuable resource for understanding how the project was organized.
 
