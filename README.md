@@ -23,7 +23,7 @@ The project was carried out at LPHI (Laboratory of Host-Pathogen Interactions) u
 
 This repository contains three main folders:
 
-### 1. Pipeline
+### 1. Pipeline {#1-pipeline}
 
 -   Contains the main scripts used in the analysis pipeline.
 -   The schematic below illustrates the major steps in the pipeline:
@@ -34,7 +34,7 @@ For more details about the pipeline and each step, see: `Internship_results/S3_r
 
 ------------------------------------------------------------------------
 
-### 2. Test Scripts
+### 2. Test Scripts {#2-test-scripts}
 
 -   Includes test scripts and their documentation.
 -   Provides insight into how I coded during the project.
@@ -42,7 +42,7 @@ For more details about the pipeline and each step, see: `Internship_results/S3_r
 
 ------------------------------------------------------------------------
 
-### 3. Internship Results
+### 3. Internship Results {#3-internship-results}
 
 -   Contains the full Master's thesis report.
 -   Includes the presentation used to summarize the project for quick reference.
